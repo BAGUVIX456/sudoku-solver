@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["VbaError","A VBA specific error enum"]],"struct":[["Reference","A vba reference"],["VbaProject","A struct for managing VBA reading"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main",""],["region","This function determines the region of an empty position and is run only once during the execution of the program (in the very first iteration of the loop in main)."]],"mod":[["sudoku",""]]});

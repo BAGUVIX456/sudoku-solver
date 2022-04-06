@@ -1,0 +1,12 @@
+C:\Users\Gumbi\Documents\Rust files\sudoku_solver\target\release\deps\thiserror_impl-93cd72506c7d51f0.dll: C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\lib.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\ast.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\attr.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\expand.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\fmt.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\generics.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\prop.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\valid.rs
+
+C:\Users\Gumbi\Documents\Rust files\sudoku_solver\target\release\deps\thiserror_impl-93cd72506c7d51f0.d: C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\lib.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\ast.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\attr.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\expand.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\fmt.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\generics.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\prop.rs C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\valid.rs
+
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\lib.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\ast.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\attr.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\expand.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\fmt.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\generics.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\prop.rs:
+C:\Users\Gumbi\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.30\src\valid.rs:
