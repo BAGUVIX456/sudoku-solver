@@ -1,1 +1,0 @@
-window.ALL_CRATES = ["adler","anyhow","array_tool","byteorder","calamine","cfg_if","codepage","crc32fast","encoding_rs","flate2","libc","log","memchr","miniz_oxide","proc_macro2","quick_xml","quote","serde","sudoku_solver","syn","thiserror","thiserror_impl","unicode_xid","zip"];

@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["from_encoding","Returns the preferred code page identifier for an `Encoding`."],["to_encoding","Maps a Windows code page identifier to an encoding_rs `Encoding` (or `None` if there is no appropriate mapping)."],["to_encoding_no_replacement","Like `to_encoding`, except returns `None` when `to_encoding` would return `Some(REPLACEMENT)`."]]});
