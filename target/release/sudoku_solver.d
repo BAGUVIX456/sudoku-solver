@@ -1,1 +1,0 @@
-C:\Users\Gumbi\Documents\Rust\ files\sudoku_solver\target\release\sudoku_solver.exe: C:\Users\Gumbi\Documents\Rust\ files\sudoku_solver\src\main.rs C:\Users\Gumbi\Documents\Rust\ files\sudoku_solver\src\sudoku.rs
