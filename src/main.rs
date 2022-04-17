@@ -4,9 +4,6 @@ use human_panic::setup_panic;
 mod sudoku;
 use sudoku::Sudoku;
 
-#[cfg(test)]
-mod tests;
-
 #[derive(Parser)]
 #[clap(author, version, about, long_about = None)]
 struct Arguments {
