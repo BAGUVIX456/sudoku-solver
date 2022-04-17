@@ -15,6 +15,7 @@ To use this software:
        The usage of this command might be slightly different in different operating systems.
    4. Run `sudoku solve <file_path>` to solve the sudoku puzzle or `sudoku check <file_path>` to check its validity!
    5. Use `sudoku --help` for help on how to use the commands.
-
+   
+   <img src="https://user-images.githubusercontent.com/85876638/163722234-75d554f4-82a0-4c72-a29e-65caf0bc7c11.png" width="55%">
 
 <b> <u> Note: </u> Double-clicking on the executable won't work! Run the executable from the terminal itself. </b>
