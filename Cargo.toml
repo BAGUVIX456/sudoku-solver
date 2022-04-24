@@ -4,7 +4,6 @@ version = "1.0.0"
 authors = ["Dhanvith Nayak <saberdan02@gmail.com>"]
 description = "A CLI application to solve simple sudoku puzzles"
 keywords = ["sudoku", "cli", "command-line"]
-edition = "2021"
 
 [dependencies]
 calamine = "0.18.0"
