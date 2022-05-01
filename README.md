@@ -6,7 +6,7 @@ To use this software:
    1. Download sudoku.exe from the Releases tab.
    2. Create a new Excel spreadsheet file and enter the sudoku table in Sheet 1, with 0 entered in all the empty places. Note the location of this file.
   
-       <img src="https://user-images.githubusercontent.com/85876638/161526789-365c2d90-1435-478e-b1aa-c72dd5cff462.png" width="60%">
+       <img src="https://user-images.githubusercontent.com/85876638/161526789-365c2d90-1435-478e-b1aa-c72dd5cff462.png" width="80%">
    3. Open your favourite terminal and `cd` yourself into the directory in which sudoku.exe is installed.
   
        ``` 
@@ -16,6 +16,11 @@ To use this software:
    4. Run `sudoku solve <file_path>` to solve the sudoku puzzle or `sudoku check <file_path>` to check its validity!
    5. Use `sudoku --help` for help on how to use the commands.
    
-   <img src="https://user-images.githubusercontent.com/85876638/163722234-75d554f4-82a0-4c72-a29e-65caf0bc7c11.png" width="60%">
+   <img src="https://user-images.githubusercontent.com/85876638/163722234-75d554f4-82a0-4c72-a29e-65caf0bc7c11.png" width="80%">
 
-<b> <u> Note: </u> Double-clicking on the executable won't work! Run the executable from the terminal itself. </b>
+<b> Note: Double-clicking on the executable won't work! Run the executable from the terminal itself. </b>
+
+### Planned features for future versions:
+  1. Implementing a better algorithm (at least a backtracking algorithm) to make it possible to be able to solve any kind of sudoku puzzle in the least possible time.
+  2. Making error messages more helpful.
+  3. Beautifying solution output.
