@@ -139,7 +139,7 @@ impl Sudoku {
         }
 
         if removed_values.is_empty() {
-            bail!("Given sudoku puzzle has more than one solution and cannot be solved");
+            bail!("I am sorry, this sudoku puzzle cannot be solved by me (yet)!!");
         }
 
         for &coords in &removed_values {
