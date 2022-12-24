@@ -21,6 +21,7 @@ To use this software:
 <b> Note: Double-clicking on the executable won't work! Run the executable from the terminal itself. </b>
 
 ### Planned features for future versions:
-  1. Implementing a better algorithm (at least a backtracking algorithm) to make it possible to be able to solve any kind of sudoku puzzle in the least possible time.
+  1. Implementing a better algorithm to be able to solve any kind of sudoku puzzle.
   2. Making error messages more helpful.
+  3. Specifying reason for failure in check command
   3. Beautifying solution output.
